@@ -10,9 +10,9 @@
 	</parent>
 	<groupId>com.stream-api</groupId>
 	<artifactId>stream-api</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
-	<name/>
-	<description/>
+	<version>0.0.1</version>
+	<name>product-service</name>
+	<description>Product Service using Java 25 and Spring Boot 4.1</description>
 	<url/>
 	<licenses>
 		<license/>
